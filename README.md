@@ -208,3 +208,4 @@ supabase/seed.sql    optional demo products
 9. Try opening `/admin` in a private/incognito window. You should be sent to the login page.
 
 If all nine steps pass, your store is ready.
+--------------------------------------------------------------------
